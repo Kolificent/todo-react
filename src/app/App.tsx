@@ -7,7 +7,6 @@ import { TasksProvider } from './TaskProvider';
 import { Fragment } from 'react/jsx-runtime';
 
 function App() {
-  // ? норм ли так стиль выносить
   const mainBoxStyle = {
     width: '100%',
     height: '100%',
